@@ -1,0 +1,8 @@
+baseURL = 'https:/https://github.com/Nudge-iAm/MyPage/new/main/page1.com'
+languageCode = 'en-us'
+title = 'page1'
+[params]
+  subtitle = 'page 1'
+  [params.contact]
+    email = ''
+    phone = ''
